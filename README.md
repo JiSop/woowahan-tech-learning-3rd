@@ -1,6 +1,8 @@
 # woowahan-tech-learning-3rd
 
+  
 
+  
 
 > ### 우아한테크러닝 3기 : React &amp; Typescript
 >
@@ -9,8 +11,11 @@
 > 강사 : 우아한형제들 김민태님 (웹프론트엔드개발그룹장)
 >
 > 장소 : 온라인 (zoom 이용)
+  
 
+  
 
+  
 
 ### 회차
 
