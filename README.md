@@ -16,12 +16,12 @@
 
 ​    
 
-|                                |                  D1                  |                D2                |                D3                |  D4  |  D5  |  D6  |  D7  |  D8  |
-| :----------------------------: | :----------------------------------: | :------------------------------: | :------------------------------: | :--: | :--: | :--: | :--: | :--: |
-|  **[codeAmeba](./codeAmeba)**  | [📄](./codeAmeba/woowahan-tech-01.md) |                                  |                                  |      |      |      |      |      |
-|      **[JiSop](./JiSop)**      |   [📄](./JiSop/woowahan-tech-01.md)   | [📄](./JiSop/woowahan-tech-02.md) | [📄](./JiSop/woowahan-tech-03.md) |      |      |      |      |      |
-| **[sunnykim91](./sunnykim81)** |                                      |                                  |                                  |      |      |      |      |      |
-| **[tastyloper](./tastyloper)** |                                      |                                  |                                  |      |      |      |      |      |
+|                                |                  D1                  |                D2                |                  D3                   |                  D4                   |                D5                |  D6  |  D7  |  D8  |
+| :----------------------------: | :----------------------------------: | :------------------------------: | :-----------------------------------: | :-----------------------------------: | :------------------------------: | :--: | :--: | :--: |
+|  **[codeAmeba](./codeAmeba)**  | [📄](./codeAmeba/woowahan-tech-01.md) |                ✔️                 |                   ✔️                   |                   ✔️                   |                ✔️                 |  ✔️   |      |      |
+|      **[JiSop](./JiSop)**      |   [📄](./JiSop/woowahan-tech-01.md)   | [📄](./JiSop/woowahan-tech-02.md) |   [📄](./JiSop/woowahan-tech-03.md)    |   [📄](./JiSop/woowahan-tech-04.md)    | [📄](./JiSop/woowahan-tech-05.md) |  ✔️   |      |      |
+| **[sunnykim91](./sunnykim81)** |                  ✔️                   |                ✔️                 | [📄](./sunnykim91/woowahan-tech-03.md) | [📄](./sunnykim91/woowahan-tech-04.md) |                ✔️                 |  ✔️   |      |      |
+| **[tastyloper](./tastyloper)** |                  ✔️                   |                ✔️                 |                   ✔️                   |                   ✔️                   |                ✔️                 |  ✔️   |      |      |
 
 
 
